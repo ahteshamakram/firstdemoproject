@@ -1,3 +1,4 @@
 this is second.txt
 new change
 i am also updating second.txt
+fast forward merging going to start
