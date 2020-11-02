@@ -1,3 +1,5 @@
 hello world
 this is developer here....
 i am changing in first.txt
+
+now i am doing fast forward merge
